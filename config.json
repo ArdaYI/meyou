@@ -1,7 +1,7 @@
 {
 	"ip":"SBLOK.aternos.me",
 	"port": 64068,
-	"name": "afkbot1",
+	"name": "SBlok-Bot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345",
